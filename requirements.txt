@@ -1,0 +1,13 @@
+pandas
+numpy
+sqlalchemy
+pyarrow
+fastparquet
+apache-beam
+apache-airflow
+kafka-python
+boto3
+google-cloud-bigquery
+scikit-learn
+tensorflow
+pyspark
